@@ -77,7 +77,8 @@
 						<div class="card-body">
 							<h5 class="card-title">Unicode/InPage transliteration</h5>
 							<p class="card-text">Hindi->Punjabi,Roman, Urdu->Hindi,Roman, Punjabi-Hindi, Roman, Telugu->Hindi</p>
-							<a href="http://183.82.119.160/indic-trans/" target="_blank" class="btn btn-primary">Click here</a>
+							<a href="http://183.82.119.160/transliteration-0.4/" target="_blank" class="btn btn-primary">Transliteration-0.4</a>
+							<a href="http://183.82.119.160/indic-converter/" target="_blank" class="btn btn-primary">Indic Converter</a>
 						</div>
 					</div>
 				</div>
