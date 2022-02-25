@@ -23,7 +23,8 @@
 							<h5 class="card-title"> Validator</h5>
 							<p class="card-text">Validating terms of format ((T1|T2|T3))</p>
 							<a href="http://183.82.119.160/term-validator/" target="_blank" class="btn btn-primary">Server1</a>
-							<a href="http://202.65.148.98/term-validator/" target="_blank" class="btn btn-primary">Server2</a>
+							<a href="http://183.82.119.160/term-validator/" target="_blank" class="btn btn-primary">Server2</a>
+							<a href="http://202.65.148.98/term-validator/" target="_blank" class="btn btn-primary">Server3</a>
 						</div>
 					</div>
 				</div>
@@ -33,9 +34,10 @@
 						<div class="card-body">
 							<h5 class="card-title"> Mark Terms/Easy Read</h5>
 							<p class="card-text">Mark terms of format ((T1|T2|T3))</p>
-							<a href="http://202.65.148.98/term-mark/" target="_blank" class="btn btn-primary">Server1</a>
-							<a href="http://183.82.119.160/term-mark/" target="_blank" class="btn btn-primary">Server2</a>
-							<a href="http://183.82.119.160/easy-read/" target="_blank" class="btn btn-primary">Easy Read</a>
+							<a href="http://18.219.158.212/term-mark/" target="_blank" class="btn btn-primary">Server1</a>
+							<a href="http://202.65.148.98/term-mark/" target="_blank" class="btn btn-primary">Server2</a>
+							<a href="http://183.82.119.160/term-mark/" target="_blank" class="btn btn-primary">Server3</a>
+							<a href="http://18.219.158.212/easy-read/" target="_blank" class="btn btn-primary">Easy Read</a>
 						</div>
 					</div>
 				</div>
@@ -45,8 +47,9 @@
 						<div class="card-body">
 							<h5 class="card-title">Validator</h5>
 							<p class="card-text">Subtitle (srt) format validation</p>
-							<a href="http://183.82.119.160/subtitle-validator/" target="_blank" class="btn btn-primary">Server1</a>
-							<a href="http://202.65.148.98/subtitle-validator/" target="_blank" class="btn btn-primary">Server2</a>
+							<a href="http://18.219.158.212/subtitle-validator/" target="_blank" class="btn btn-primary">Server1</a>
+							<a href="http://183.82.119.160/subtitle-validator/" target="_blank" class="btn btn-primary">Server2</a>
+							<a href="http://202.65.148.98/subtitle-validator/" target="_blank" class="btn btn-primary">Server3</a>
 						</div>
 					</div>
 				</div>
@@ -56,8 +59,9 @@
 						<div class="card-body">
 							<h5 class="card-title">Utility</h5>
 							<p class="card-text">Subtitle related tools</p>
-							<!--<a href="http://183.82.119.160/subtitle-utility/" target="_blank" class="btn btn-primary">Server1</a>-->
-							<a href="http://202.65.148.98/subtitle-utility/" target="_blank" class="btn btn-primary">Click to access</a>
+							<a href="http://18.219.158.212/subtitle-utility/" target="_blank" class="btn btn-primary">Server1</a>
+							<a href="http://183.82.119.160/subtitle-utility/" target="_blank" class="btn btn-primary">Server2</a>
+							<a href="http://202.65.148.98/subtitle-utility/" target="_blank" class="btn btn-primary">Server3</a>
 						</div>
 					</div>
 				</div>
@@ -67,7 +71,8 @@
 						<div class="card-body">
 							<h5 class="card-title">Transliteration</h5>
 							<p class="card-text">English, Bengali, Kannada, MalayalaM, Hindi, Punjabi, Telugu, Tamil, Urdu</p>
-							<a href="http://183.82.119.160/indic-trans/" target="_blank" class="btn btn-primary">Click here</a>
+							<a href="http://18.219.158.212/indic-trans/" target="_blank" class="btn btn-primary">Server1</a>
+							<a href="http://183.82.119.160/indic-trans/" target="_blank" class="btn btn-primary">Server2</a>
 						</div>
 					</div>
 				</div>
@@ -77,8 +82,10 @@
 						<div class="card-body">
 							<h5 class="card-title">Unicode/InPage transliteration</h5>
 							<p class="card-text">Hindi->Punjabi,Roman, Urdu->Hindi,Roman, Punjabi-Hindi, Roman, Telugu->Hindi</p>
-							<a href="http://183.82.119.160/transliteration-0.4/" target="_blank" class="btn btn-primary">Transliteration-0.4</a>
-							<a href="http://183.82.119.160/indic-converter/" target="_blank" class="btn btn-primary">Indic Converter</a>
+							<a href="http://18.219.158.212/transliteration-0.4/" target="_blank" class="btn btn-primary">Transliteration-0.4(Server1)</a>
+							<a href="http://183.82.119.60/transliteration-0.4/" target="_blank" class="btn btn-primary">Transliteration-0.4(Server2)</a>
+							<a href="http://18.219.158.212/indic-converter/" target="_blank" class="btn btn-primary">Indic Converter(Server1)</a>
+							<a href="http://183.82.119.169/indic-converter/" target="_blank" class="btn btn-primary">Indic Converter(Server2)</a>
 						</div>
 					</div>
 				</div>
@@ -88,7 +95,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Search from BalBharathi/SCERT/ pdf text books</h5>
 							<p class="card-text">English -> Kannada, Hindi, Telugu, Urdu</p>
-							<a href="http://183.82.119.160/indic-trans/" target="_blank" class="btn btn-primary">Click here</a>
+							<a href="http://202.65.148.98/pdf-search/" target="_blank" class="btn btn-primary">Click here</a>
 						</div>
 					</div>
 				</div>
@@ -100,7 +107,8 @@
 							<p class="card-text">Multiple languages</p>
 							<a href="http://183.82.119.160/tokenize-0.1/" target="_blank" class="btn btn-primary">Tokenize and Align Parallel</a>
 							<a href="http://183.82.119.160/tokenizer/" target="_blank" class="btn btn-primary"> Simple Tokenizer</a>
-							<a href="http://183.82.119.160/file-viewer5/" target="_blank" class="btn btn-primary">File Viewer</a>
+							<a href="http://18.219.158.212/file-viewer5/" target="_blank" class="btn btn-primary">File Viewer(Server1)</a>
+							<a href="http://183.82.119.60/file-viewer5/" target="_blank" class="btn btn-primary">File Viewer(Server1)</a>
 						</div>
 					</div>
 				</div>
@@ -118,7 +126,7 @@
 					<div class="card">
 						<h5 class="card-header">Translation Work Bench</h5>
 						<div class="card-body">
-							<h5 class="card-title">Postediting tool</h5>
+							<h5 class="card-title">Transzaar:Postediting tool</h5>
 							<p class="card-text">Multiple languages</p>
 							<a href="http://ebhashasetu.com/ebhashalsp/" target="_blank" class="btn btn-primary">Work Flow</a>
 							<a href="https://transzaar.com" target="_blank" class="btn btn-primary">Transzaar</a>
@@ -131,17 +139,18 @@
 						<div class="card-body">
 							<h5 class="card-title">Transcription/SRT editing tool</h5>
 							<p class="card-text">Multiple languages</p>
-							<a href="http://183.82.119.160/videozaar" target="_blank" class="btn btn-primary">VideoZaar</a>
+							<a href="http://18.219/158.212/videozaar" target="_blank" class="btn btn-primary">VideoZaar</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6">
 					<div class="card">
-						<h5 class="card-header">Speech to Text</h5>
+						<h5 class="card-header">Google's Speech to Text</h5>
 						<div class="card-body">
 							<h5 class="card-title">Speech to Text/Audio to text verification</h5>
 							<p class="card-text">Multiple languages</p>
-							<a href="http://183.82.119.160/audiodata-0.8" target="_blank" class="btn btn-primary">AudioZaar</a>
+							<a href="http://18.219.158.212/audiodata-0.8" target="_blank" class="btn btn-primary">AudioZaar(Server1)</a>
+							<a href="http://183.82.119.60/audiodata-0.8" target="_blank" class="btn btn-primary">AudioZaar(Server2)</a>
 						</div>
 					</div>
 				</div>
@@ -151,7 +160,8 @@
 						<div class="card-body">
 							<h5 class="card-title">Image to text verification</h5>
 							<p class="card-text">Multiple languages</p>
-							<a href="http://183.82.119.160/imagedata-0.8" target="_blank" class="btn btn-primary">ImageZaar</a>
+							<a href="http://18.219.158.212/imagedata-0.8" target="_blank" class="btn btn-primary">ImageZaar(Server1)</a>
+							<a href="http://183.82.119.160/imagedata-0.8" target="_blank" class="btn btn-primary">ImageZaar(Server2)</a>
 						</div>
 					</div>
 				</div>
@@ -161,7 +171,8 @@
 						<div class="card-body">
 							<h5 class="card-title">PDF to text verification</h5>
 							<p class="card-text">Multiple languages</p>
-							<a href="http://183.82.119.160/pdfdata" target="_blank" class="btn btn-primary">PDFZaar</a>
+							<a href="http://18.219.158.212/pdfdata-1.2" target="_blank" class="btn btn-primary">PDFZaar(Server1)</a>
+							<a href="http://183.82.119.60/pdfdata-1.2" target="_blank" class="btn btn-primary">PDFZaar(Server2)</a>
 						</div>
 					</div>
 				</div>
@@ -171,7 +182,8 @@
 						<div class="card-body">
 							<h5 class="card-title">Visusalize difference between two files</h5>
 							<p class="card-text">Multiple languages</p>
-							<a href="http://183.82.119.160/diff-0.3" target="_blank" class="btn btn-primary">PDFZaar</a>
+							<a href="http://18.219.158.212/diff-0.4" target="_blank" class="btn btn-primary">DIFF(Server1)</a>
+							<a href="http://183.82.119.160/diff-0.3" target="_blank" class="btn btn-primary">DIFF(Server2)</a>
 						</div>
 					</div>
 				</div>
@@ -181,7 +193,8 @@
 						<div class="card-body">
 							<h5 class="card-title">Bleu Score calculation and Parallel Dict generation</h5>
 							<p class="card-text">Multiple languages</p>
-							<a href="http://202.65.148.98/bleu-calculator/" target="_blank" class="btn btn-primary">Bleu-calculator</a>
+							<a href="http://18.219.158.212/bleu-calculator/" target="_blank" class="btn btn-primary">Bleu-calculator(Server1)</a>
+							<a href="http://202.65.148.98/bleu-calculator/" target="_blank" class="btn btn-primary">Bleu-calculator(Server2)</a>
 							<a href="http://202.65.148.98/parallel-dict/" target="_blank" class="btn btn-primary">Paralle Dict</a>
 						</div>
 					</div>
